@@ -3,9 +3,10 @@ Check it out live: [BookBuddies](http://ec2-15-206-164-36.ap-south-1.compute.ama
 
 ![235061761-e050f641-0eae-42af-ae10-8f6de54d52e4](https://github.com/gelsonm/BookBuddies/assets/37416550/7096aa06-9783-4900-b6cc-0034712f2c6b)
 
+![archi](https://github.com/anushhi/Book-Recommender-Sytem/assets/65493890/5bf1f309-6135-4cef-a10a-a739443909df)
 
 ## Data Flow Diagram
-<img src="https://github.com/gelsonm/BookBuddies/assets/37416550/e07fd30f-5de4-4745-9e39-b7c175c61add" width="500">
+<img src="https://github.com/anushhi/Book-Recommender-Sytem/assets/65493890/5bf1f309-6135-4cef-a10a-a739443909df" width="500">
 
 
 ## System Architecture:
