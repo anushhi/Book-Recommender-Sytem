@@ -1,9 +1,7 @@
 
-![archi](https://github.com/anushhi/Book-Recommender-Sytem/assets/65493890/8d841792-ee9a-4e85-b8c1-85f37f923601)
-
 
 ## Data Flow Diagram
-<img src="https://github.com/gelsonm/BookBuddies/assets/37416550/e07fd30f-5de4-4745-9e39-b7c175c61add" width="500">
+<img src="https://github.com/anushhi/Book-Recommender-Sytem/assets/65493890/8d841792-ee9a-4e85-b8c1-85f37f923601" width="500">
 
 
 ## System Architecture:
