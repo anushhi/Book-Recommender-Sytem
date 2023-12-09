@@ -1,7 +1,11 @@
+# Book Recommender System
+Check it out live: [BookBuddies](http://ec2-15-206-164-36.ap-south-1.compute.amazonaws.com:8080/)
+
+![235061761-e050f641-0eae-42af-ae10-8f6de54d52e4](https://github.com/gelsonm/BookBuddies/assets/37416550/7096aa06-9783-4900-b6cc-0034712f2c6b)
 
 
 ## Data Flow Diagram
-<img src="https://github.com/anushhi/Book-Recommender-Sytem/assets/65493890/8d841792-ee9a-4e85-b8c1-85f37f923601" width="500">
+<img src="https://github.com/gelsonm/BookBuddies/assets/37416550/e07fd30f-5de4-4745-9e39-b7c175c61add" width="500">
 
 
 ## System Architecture:
