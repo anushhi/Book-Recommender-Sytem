@@ -1,5 +1,5 @@
 
-![235061761-e050f641-0eae-42af-ae10-8f6de54d52e4](https://github.com/gelsonm/BookBuddies/assets/37416550/7096aa06-9783-4900-b6cc-0034712f2c6b)
+![archi](https://github.com/anushhi/Book-Recommender-Sytem/assets/65493890/8d841792-ee9a-4e85-b8c1-85f37f923601)
 
 
 ## Data Flow Diagram
